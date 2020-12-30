@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Moty Douek ✨ and I am a back End Developer and LOVE to code in JAVA 🔭
+<br>
+I’m currently working on fun JAVA based games 😄
+<br>
+Fun fact: I like to listen to pop songs. The trashier, the better! :)
