@@ -19,4 +19,4 @@ I am Moty Douek ✨ and I am a back End Developer and LOVE to code in JAVA 🔭
 <br>
 I’m currently working on fun JAVA based games 😄
 <br>
-Fun fact: I like to listen to pop songs. The trashier, the better! :)
+Fun fact: I like to listen to pop songs. I am also a wonderful singer in the shower! :)
