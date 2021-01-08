@@ -14,9 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table cellspacing="0" cellpadding="0">
+  <th>
+I am Moty Douek ✨ and I am a Full Stack Developer who LOVE to code in Kotlin 🔭
+<br>
+I’m currently working on some fun JAVA games and Kotlin apps 😄
+<br>
+Fun fact: I like to sing in the shower :)
 
-I am Moty Douek ✨ and I am a back End Developer and LOVE to code in JAVA 🔭
-<br>
-I’m currently working on fun JAVA based games 😄
-<br>
-Fun fact: I like to listen to pop songs. I am also a wonderful singer in the shower! :)
+<th>
+  
+![](https://media.giphy.com/media/2wcnv9rQzfTb2/giphy.gif)
+
+</table>
