@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table cellspacing="0" cellpadding="0">
+<table>
   <th>
 I am Moty Douek ✨ and I am a Full Stack Developer who LOVE to code in Kotlin 🔭
 <br>
