@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 <table>
   <th>
-I am Moty Douek ✨ and I am a Full Stack Developer who LOVE to code in Kotlin 🔭
-<br>
-I’m currently working on some fun JAVA games and Kotlin apps 😄
+I am Moty Douek ✨ and I am a Full Stack Developer who LOVE to code 😄
 <br>
 Fun fact: I like to sing in the shower :)
 
