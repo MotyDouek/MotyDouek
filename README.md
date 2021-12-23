@@ -1,4 +1,4 @@
-[![moty douek header](https://i.ibb.co/44mkkqj/Moty-Banner.png)](https://www.linkedin.com/in/moty-douek-22bb30207)
+[![moty douek header](https://i.postimg.cc/Hx5mDgTx/Moty-Banner.png)](https://www.linkedin.com/in/moty-douek-22bb30207)
 
 
  Hi there 👋
