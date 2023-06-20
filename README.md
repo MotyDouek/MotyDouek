@@ -8,7 +8,6 @@
 * 🌐 I make apps for Web browsers
 * 📱 I make native apps for Android
 * 🔭 I’m currently working on **Plusgrade**
-* :octocat: All of my projects are available at <a href="https://github.com/MotyDouek?tab=repositories" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="https://github.com/BarOvda" height="30" width="40" /></a>
 
 ### My top skills
  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
